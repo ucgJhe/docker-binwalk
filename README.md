@@ -2,7 +2,9 @@ build binwalk in docker
 
 ## Build
 
-Tested it on Archlinux
+Tested it on
+- Archlinux
+- Ubuntu 20.04.1 LTS
 
 ```
 git clone https://github.com/ucgJhe/docker-binwalk
